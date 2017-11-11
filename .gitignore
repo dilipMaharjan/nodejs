@@ -1,1 +1,3 @@
 *.vscode
+aync/node_modules
+server/node_modules
